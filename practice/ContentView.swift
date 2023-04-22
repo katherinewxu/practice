@@ -16,7 +16,7 @@ struct ContentView: View {
     
     //body
     var body: some View {
-        VStack(spacing: 100) {
+        VStack(spacing: 150) {
             Text("What is your name?") //ask for name
                 .padding(.horizontal)
                 .font(.title)
